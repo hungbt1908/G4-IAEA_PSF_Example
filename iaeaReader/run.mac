@@ -1,0 +1,10 @@
+/Parameters/VoxalizedPhantomSizeX 20 cm
+/Parameters/VoxalizedPhantomSizeY 20 cm
+/Parameters/VoxalizedPhantomSizeZ 20 cm
+
+/Parameters/numberOfVoxelsAlongX 20
+/Parameters/numberOfVoxelsAlongY 20
+/Parameters/numberOfVoxelsAlongZ 20
+
+/run/initialize
+/run/beamOn 1000

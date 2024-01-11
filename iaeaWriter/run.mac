@@ -1,0 +1,4 @@
+/run/initialize
+/Phsp/Name myPhaseSpace
+/Phsp/Zstop 0. cm
+/run/beamOn 1000
